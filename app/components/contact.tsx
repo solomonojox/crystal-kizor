@@ -27,7 +27,7 @@ export default function Contact() {
                         </h2>
                         <p className="text-warm-200/80 text-base lg:text-lg leading-relaxed mb-12 max-w-xl mx-auto">
                             Whether {`you're`} looking for an architect, a collaborator, a
-                            speaker, or a place to belong — {`there's`} a door for you.
+                            speaker, or a place to belong - {`there's`} a door for you.
                         </p>
                     </motion.div>
 

@@ -74,7 +74,7 @@ export default function Hero() {
                     className="text-base lg:text-md text-stone max-w-2xl mx-auto leading-relaxed mb-6 lg:mb-4"
                 >
                     I design at the intersection of architecture, culture, and human
-                    experience — creating environments, objects, and opportunities that
+                    experience - creating environments, objects, and opportunities that
                     help people live, work, and thrive.
                 </motion.p>
 

@@ -82,7 +82,7 @@ export default function StudioFeature() {
 
                         <div className="space-y-4 text-stone leading-relaxed">
                             <p>
-                                Studio COKA is my architectural practice — a space where
+                                Studio COKA is my architectural practice - a space where
                                 sustainability {`isn't`} a trend but a founding principle. We design
                                 with orientation, shading, natural ventilation, and indigenous
                                 materials. The goal is simple: spaces that cost less to live in,
@@ -92,14 +92,14 @@ export default function StudioFeature() {
                             <p>
                                 Our work includes residential and commercial projects, with a
                                 portfolio highlight being {`Nigeria's`} first fully off-grid,
-                                solar-powered hospital — a project that proves thoughtful design
+                                solar-powered hospital - a project that proves thoughtful design
                                 can serve both people and planet.
                             </p>
                         </div>
 
                         <div className="grid grid-cols-2 gap-6 pt-4">
                             <div className="border-l-2 border-terracotta pl-4">
-                                <p className="font-display text-3xl lg:text-4xl text-charcoal">
+                                <p className="font-display text-xl lg:text-4xl text-charcoal">
                                     Off-grid
                                 </p>
                                 <p className="text-sm text-stone mt-1">
@@ -107,7 +107,7 @@ export default function StudioFeature() {
                                 </p>
                             </div>
                             <div className="border-l-2 border-terracotta pl-4">
-                                <p className="font-display text-3xl lg:text-4xl text-charcoal">
+                                <p className="font-display text-xl lg:text-4xl text-charcoal">
                                     Indigenous
                                 </p>
                                 <p className="text-sm text-stone mt-1">

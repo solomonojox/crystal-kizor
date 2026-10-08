@@ -37,8 +37,8 @@ export default function About() {
                         <p className="text-warm-200 text-base lg:text-lg leading-relaxed">
                             Every project starts with the same question:{" "}
                             <span className="text-warm-50 italic">
-                                How do we create environments — physical, intellectual,
-                                spiritual — where people can become fully alive?
+                                How do we create environments - physical, intellectual,
+                                spiritual - where people can become fully alive?
                             </span>
                         </p>
                         <p className="text-warm-200 text-base lg:text-lg leading-relaxed">

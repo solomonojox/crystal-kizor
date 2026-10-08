@@ -150,7 +150,7 @@ export default function Ecosystem() {
                             </h3>
                             <p className="text-sm text-warm-200/80 leading-relaxed">
                                 Ideas, research, and commentary on architecture, African cities,
-                                design, and the built environment — the connective tissue across
+                                design, and the built environment - the connective tissue across
                                 everything I do.
                             </p>
                         </div>
