@@ -1,5 +1,3 @@
-"use client";
-
 export default function Footer() {
     return (
         <footer className="py-10 lg:py-12 bg-charcoal border-t border-warm-50/5">
@@ -11,7 +9,7 @@ export default function Footer() {
                     Architect · Designer · Entrepreneur · Speaker
                 </p>
                 <p className="text-xs text-warm-200/30">
-                    © {new Date().getFullYear()}
+                    © 2026
                 </p>
             </div>
         </footer>

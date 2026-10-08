@@ -5,7 +5,6 @@ import {
     ArrowUpRight,
     Building2,
 } from "lucide-react";
-import Media from "./Media";
 import Image from "next/image";
 
 export default function StudioFeature() {
