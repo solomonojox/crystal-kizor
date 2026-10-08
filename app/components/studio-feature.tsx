@@ -36,7 +36,7 @@ export default function StudioFeature() {
                         className="relative aspect-4/5 rounded-sm overflow-hidden bg-warm-200"
                     >
                         <Image alt="hey" src="/assets/crystal/Architectural Studio Portrait.png" fill className="object-cover"/>
-                        <div className="absolute inset-0 flex items-center justify-center">
+                        {/* <div className="absolute inset-0 flex items-center justify-center">
                             <div className="text-center p-8">
                                 <Building2
                                     size={48}
@@ -50,7 +50,7 @@ export default function StudioFeature() {
                                     {`Nigeria's`} first fully off-grid hospital, Nsukka
                                 </p>
                             </div>
-                        </div>
+                        </div> */}
                         {/* Subtle overlay pattern */}
                         <div
                             className="absolute inset-0 opacity-[0.04]"
